@@ -1,2 +1,6 @@
 Será necessário alguns arquivos para pode funcionar:
 Página principal: npbeta.html
+Página para impressão: imprimenp.html
+O diretórios "css" contém os arquivos do bootstrap
+E o diretório "js" contém basicamente as calculadoras
+
